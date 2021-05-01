@@ -3,11 +3,11 @@
 [<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">][website]
 
 ## 💻 Web Developer
-- 🔭 I’m currently working on a Courses or YT
-- 🌱 I’m currently learning more about web dev
-- 👯 I’m looking to collaborate webinar,meetup...
-- 💬 Ask me about to be a web dev
-- ⚡ Fun fact: I love videogames but no time to play (thats fun)
+- Actualmente estoy aprendiendo más sobre desarrollo web y en ocaciones tambien trabajo en las tecnologias de mi apartado Learming.
+- Me interesa tambien todo lo relacionado con los datos:Cloud, Machine Learning and Data Science.
+- La Seguridad Informatica me apasiona asi que tambien desarrollo herramientas sobre el tema pronto lo veran posteados en mi repositorio.
+- ⚡ Dato curioso: me encantan los videojuegos pero no tengo mucho tiempo para jugar.
+
 ---
 ## 🚀 Coding
 ### Actualmente  trabajando en :
@@ -23,8 +23,8 @@
 
 
 <br/>
----
 
+---
 ### Learming :
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
@@ -34,14 +34,19 @@
 
 
 <br/>
----
 
+---
 ### Tools:
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img width="50px"  src="icons/vscode.png" /></a>
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
+
+
+---
+
+[<img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" alt="Coder GIF" width="500">][website]
 
 
 <!--LINKS-->
