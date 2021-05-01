@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AndresAC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AndresM80809595)
 [<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">][website]
 
-## 💻 Web Developer
+## 💻 What I am currently doing:
 - Actualmente estoy aprendiendo más sobre desarrollo web y en ocaciones tambien trabajo en las tecnologias de mi apartado Learming.
 - Me interesa tambien todo lo relacionado con los datos:Cloud, Machine Learning and Data Science.
 - La Seguridad Informatica me apasiona asi que tambien desarrollo herramientas sobre el tema pronto lo veran posteados en mi repositorio.
@@ -21,8 +21,9 @@
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
+<br/><br/>
 
-<br/>
+
 
 ---
 ### Learming :
@@ -34,6 +35,7 @@
 
 
 <br/>
+
 
 ---
 ### Tools:
