@@ -11,8 +11,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AndresAC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AndresM80809595)
 <br/><br/>
 <center>
-[       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</center>][website]
+       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</center>]
 <br/><br/>
 
 
