@@ -12,8 +12,6 @@
 <br/><br/>
 
 [<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">][website]
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andres Amaro Castillo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
 ## 💻 What I am currently doing:
 - Actualmente estoy aprendiendo más sobre desarrollo web y en ocaciones tambien trabajo en las tecnologias de mi apartado Learming.
 - Me interesa tambien todo lo relacionado con los datos:Cloud, Machine Learning and Data Science.
