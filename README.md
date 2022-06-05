@@ -1,8 +1,5 @@
 
 ### Hi [Andres29AC][website] here 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/AndresAC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AndresM80809595)
-[<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">][website]
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andres Amaro Castillo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG
 ](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Andres+Amaro+Castillo;I+from+Peru,+SP;I+study+systems+development+at+UPN;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -10,6 +7,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andres29AC&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Andres Amaro Castillo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres29AC&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/AndresAC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AndresM80809595)
+[<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">][website]
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andres Amaro Castillo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ## 💻 What I am currently doing:
 - Actualmente estoy aprendiendo más sobre desarrollo web y en ocaciones tambien trabajo en las tecnologias de mi apartado Learming.
