@@ -37,7 +37,7 @@
 <a href="https://www.ruby-lang.org/es/" title="ruby"><img width="50px"  src="icons/ruby.png" /></a>
 <a href="https://www.rust-lang.org/" title="rust"><img width="50px"  src="icons/rust.png" /></a>
 <a href="https://www.scala-lang.org/" title="scala"><img width="50px"  src="icons/scala.png" /></a>
-<a href="https://visualstudio.microsoft.com/es/" title="c#"><img width="50px"  src="icons/c#.png" /></a>
+<a href="https://visualstudio.microsoft.com/es/" title="c#"><img width="50px"  src="icons/csharp.png" /></a>
 <a href="https://visualstudio.microsoft.com/es/" title="c++"><img width="50px"  src="icons/cpp.png" /></a>
 
 
