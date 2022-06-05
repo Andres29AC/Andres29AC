@@ -88,8 +88,9 @@
 
 
 ---
-
-<img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" alt="Coder GIF" width="500">
+<div align=center>
+    <img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" alt="Coder GIF" width="500">
+</div>
 <br/><br/>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
