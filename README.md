@@ -22,7 +22,6 @@
 <a href="https://www.java.com/es//" title="java"><img width="50px"  src="icons/java.png" /></a>
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
@@ -34,8 +33,10 @@
 ### Learming :
 <a href="https://clojure.org//" title="clojure"><img width="50px"  src="icons/clojure.png" /></a>
 <a href="https://www.lua.org//" title="lua"><img width="50px"  src="icons/lua.png" /></a>
-
-
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" />
+<a href="https://www.ruby-lang.org/es/" title="ruby"><img width="50px"  src="icons/ruby.png" /></a>
+<a href="https://www.rust-lang.org/" title="rust"><img width="50px"  src="icons/rust.png" /></a>
+<a href="https://www.scala-lang.org/" title="scala"><img width="50px"  src="icons/scala.png" /></a>
 
 <br/><br/>
 
