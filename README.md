@@ -1,8 +1,8 @@
 
 ### Hi [Andres29AC][website] here 👋
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andres Amaro Castillo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 [![Twitter Follow](https://img.shields.io/twitter/follow/AndresAC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AndresM80809595)
 [<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">][website]
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andres Amaro Castillo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ## 💻 What I am currently doing:
 - Actualmente estoy aprendiendo más sobre desarrollo web y en ocaciones tambien trabajo en las tecnologias de mi apartado Learming.
