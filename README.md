@@ -89,8 +89,14 @@
 
 ---
 
-[<img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" alt="Coder GIF" width="500">][website]
+<img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" alt="Coder GIF" width="500">
+<br/><br/>
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andres29AC}/count.svg" /></p> 
+<br></div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
 
 <!--LINKS-->
 [Website]: https://www.instagram.com/lion_coding29/
