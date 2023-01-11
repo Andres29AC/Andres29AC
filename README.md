@@ -55,6 +55,9 @@
 <a href="https://www.scala-lang.org/" title="scala"><img width="50px"  src="icons/scala.png" /></a>
 <a href="https://visualstudio.microsoft.com/es/" title="c#"><img width="50px"  src="icons/csharp.png" /></a>
 <a href="https://visualstudio.microsoft.com/es/" title="c++"><img width="50px"  src="icons/cpp.png" /></a>
+<a href="https://nim-lang.org/" title="Nim"><img width="50px"  src="icons/Nim.svg" /></a>
+<a href="https://kotlinlang.org/" title="Kotlin"><img width="50px"  src="icons/Kotlin.svg" /></a>
+
 
 
 <br/><br/>
