@@ -61,12 +61,11 @@
 
 ---
 ### Databases :
-<a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads//" title="sql-Server"><img width="50px"  src="icons/sql-server.png" /></a>
-<a href="https://www.mysql.com/" title="mysql"><img width="50px"  src="icons/mysql.png" /></a>
-<a href="https://www.sqlite.org/index.html" title="sqlite"><img width="50px"  src="icons/sqlite.png" /></a>
-<a href="https://www.postgresql.org/" title="postgresql"><img width="50px"  src="icons/postgresql.png" /></a>
-<a href="https://www.mongodb.com/es" title="mongodb"><img width="50px"  src="icons/mongodb.png" /></a>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark&perline=15" alt="Tech Stack" /> 
+ </a>
+</p>
 
 <br/><br/>
 
