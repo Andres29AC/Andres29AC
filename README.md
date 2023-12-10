@@ -53,7 +53,7 @@
 ### Learming :
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=clojure,lua,elixir,ruby,rust,scala,csharp&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=clojure,lua,elixir,ruby,rust,scala,c#&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 <a href="https://clojure.org//" title="clojure"><img width="50px"  src="icons/clojure.png" /></a>
