@@ -51,6 +51,11 @@
 
 ---
 ### Learming :
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=clojure,lua,elixir&theme=dark&perline=15" alt="Tech Stack" /> 
+ </a>
+</p>
 <a href="https://clojure.org//" title="clojure"><img width="50px"  src="icons/clojure.png" /></a>
 <a href="https://www.lua.org//" title="lua"><img width="50px"  src="icons/lua.png" /></a>
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" />
