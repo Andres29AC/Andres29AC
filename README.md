@@ -77,11 +77,6 @@
 <img src="https://skillicons.dev/icons?i=vim,emacs,neovim,visualstudio,vscode,git,github,gitlab,docker&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img width="50px"  src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/" title="Jet Brains"><img width="50px"  src="icons/intelljIdea.png" /></a>
 
 
 
