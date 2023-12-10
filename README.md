@@ -26,6 +26,11 @@
 ---
 ## 🚀 Coding
 ### Currently working on :
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,js,css,php,java,py,nodejs,dart,flutter&theme=dark&perline=15" alt="Tech Stack" /> 
+ </a>
+</p>
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -42,12 +47,6 @@
 <a href="https://spring.io/projects/spring-boot" title="spring-boot"><img width="50px"  src="icons/spring.png" /></a>
 
 <br/><br/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,gitlab,github,githubactions,md,html,css,tailwind,windicss,sass,emotion,bootstrap,latex,regex,r,postman,rabbitmq,ps,svg,sketchup,blender,figma,vim,neovim,codepen,replit,gcp,c,js,ts,jquery,svelte,next,react,alpinejs,redux,babel,vite,vue,astro,electron,express,webpack,rollup,gulp,graphql,nodejs,ember,deno,prisma,babel,threejs,jenkins,jest,nginx,sqlite,mysql,mongodb,supabase,firebase,cloudflare,postgres,vercel,netlify,aws,azure,redis,wordpress,webflow,docker,kubernetes,haxe,python,django,flask,matlab,pytorch,tensorflow,ruby,rails,kotlin,flutter,swift,androidstudio,discord,bots,aiscript&theme=dark&perline=15" alt="Tech Stack" /> 
- </a>
-</p>
 
 ---
 ### Learming :
