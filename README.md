@@ -74,7 +74,7 @@
 ### Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vim,emacs,neovim,visualstudio,vscode,postman,git,github,gitlab,docker&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=vim,emacs,neovim,visualstudio,vscode,postman,aws,azure,selenium,vercel,git,github,gitlab,docker&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
