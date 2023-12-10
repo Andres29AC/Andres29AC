@@ -28,7 +28,7 @@
 ### Currently working on :
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,react,vue,cs,dotnet,php,laravel,java,spring,py,django,flask,nodejs,dart,flutter,go&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,react,vue,nestjs,jest,cs,dotnet,php,laravel,java,spring,py,django,flask,nodejs,dart,flutter,go&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
@@ -38,7 +38,7 @@
 ### Learming :
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=clojure,lua,elixir,ruby,rust,scala,nim,kotlin&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=clojure,lua,elixir,ruby,rust,scala,nim,kotlin,astro,vite&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
@@ -59,7 +59,7 @@
 ### Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vim,emacs,neovim,visualstudio,vscode,postman,aws,azure,selenium,vercel,git,github,gitlab,docker&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=vim,emacs,neovim,visualstudio,vscode,idea,postman,md,aws,azure,selenium,vercel,git,github,gitlab,docker&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
