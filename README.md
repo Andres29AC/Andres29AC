@@ -27,7 +27,7 @@
 ### Currently working on :
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,react,nestjs,jest,cs,dotnet,php,laravel,java,spring,nodejs,dart,flutter,go&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,react,nestjs,nextjs,jest,cs,dotnet,php,laravel,java,spring,nodejs,dart,flutter,go&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
@@ -37,7 +37,7 @@
 ### Learming :
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=clojure,lua,elixir,ruby,rust,scala,nim,kotlin,astro,vite&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=clojure,lua,elixir,ruby,rust,nim,kotlin,astro,vite&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
