@@ -34,6 +34,17 @@
 <br/><br/>
 
 ---
+## Data Science
+### Currently working on :
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,django,flask,numpy,julia&theme=dark&perline=15" alt="Tech Stack" /> 
+ </a>
+</p>
+
+<br/><br/>
+
+---
 ### Learming :
 <p align="center">
   <a href="https://skillicons.dev">
