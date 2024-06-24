@@ -23,22 +23,33 @@
 - ⚡ Me gusta mucho la musica,basquet,anime y los videojuegos.
 
 ---
-## 🚀 Coding
+## 🚀 Backend
 ### Currently working on :
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,react,nestjs,nextjs,jest,cs,dotnet,php,laravel,java,spring,nodejs,dart,flutter,go&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,react,nestjs,nextjs,jest,cs,dotnet,php,laravel,java,spring,go&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
 <br/><br/>
 
 ---
-## Data Science
+## 🚀 Data Science
 ### Currently working on :
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,django,flask,numpy,julia&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=python,django,flask,julia&theme=dark&perline=15" alt="Tech Stack" /> 
+ </a>
+</p>
+
+<br/><br/>
+
+---
+## 🚀 Movil
+### Currently working on :
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
