@@ -27,7 +27,7 @@
 ### Currently working on :
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,react,vue,nestjs,jest,cs,dotnet,php,laravel,java,spring,py,django,flask,nodejs,dart,flutter,go&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,react,nestjs,jest,cs,dotnet,php,laravel,java,spring,py,django,flask,nodejs,dart,flutter,go&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
